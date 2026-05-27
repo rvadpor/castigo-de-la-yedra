@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1ca0d589498a3a141bbcf8d8b83c35bc
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/CrearJugador.unity
+    guid: 1879f8ad9b9b1844daf4a1431372d027
+  - enabled: 1
+    path: Assets/Scenes/Juego.unity
+    guid: 0a92acec9977aff44bc37d93acb9a9ba
+  - enabled: 1
+    path: Assets/Scenes/MenuJugador.unity
+    guid: edfc190d342216f40bb0bdf6067c9126
+  - enabled: 1
+    path: Assets/Scenes/SeleccionarJugador.unity
+    guid: a393204a34b767f43ba33aec05a7b85b
+  - enabled: 1
+    path: Assets/Scenes/CargarPartida.unity
+    guid: f2649d00a8e39e340901dac5962d265a
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 34f9a5bd513a5774e9ec83540045a323
+  - enabled: 1
+    path: Assets/Scenes/Locucion.unity
+    guid: d8f41d888743b274da397395e8a6bb0d
+  - enabled: 1
+    path: Assets/Scenes/BorrarJugador.unity
+    guid: 1ee9ddf8a4200eb479db6478c0a3242a
+  - enabled: 1
+    path: Assets/Scenes/ModificarJugador.unity
+    guid: 0dc85853d8bb7c046be41d24228c9f1a
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 5bd24d7623c191847b2ad6aef06ea3d6
+  - enabled: 1
+    path: Assets/Scenes/Controles.unity
+    guid: 4c549464c34155f4cb09168f50e28559
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
